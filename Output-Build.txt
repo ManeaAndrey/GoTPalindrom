@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: GoPalindrom2, Configuration: Debug Win32 ------
+1>GoPalindrom2.cpp
+1>C:\Users\Andrei\source\repos\GoPalindrom2\GoPalindrom2.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+1>GoPalindrom2.vcxproj -> C:\Users\Andrei\source\repos\GoPalindrom2\Debug\GoPalindrom2.exe
+1>Done building project "GoPalindrom2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
